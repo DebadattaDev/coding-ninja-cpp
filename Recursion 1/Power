@@ -16,7 +16,7 @@ Sample Input 2 :
 Sample Output 2 :
 32
 
-
+---------------------CODE-------------------------------
 #include<bits/stdc++.h>
 int power(int x, int n)
 {
